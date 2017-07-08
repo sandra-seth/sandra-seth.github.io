@@ -1,0 +1,26 @@
+@font-face {
+    font-family: champagne;
+    src: url(champagne.ttf);
+}
+
+body {
+    background-color: #221D5C;
+}
+
+div h1 {
+    font-family: champagne;
+}
+
+img#invite {
+    width: 96%;
+    max-width: 1200px;
+    
+}
+
+#rsvp {
+    max-width: 30%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
